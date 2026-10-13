@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/AsteroidsAndroid/app/src/main/AndroidManifest.xml",
+      "selection": {
+        "end": {
+          "column": 47,
+          "index": 708,
+          "line": 16
+        },
+        "start": {
+          "column": 47,
+          "index": 708,
+          "line": 16
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/AsteroidsAndroid/app/src/main/AndroidManifest.xml"
+}
