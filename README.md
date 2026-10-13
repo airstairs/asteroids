@@ -1,2 +1,7 @@
 # asteroids
-asteroids for Android
+asteroids for Android 
+
+
+![ic](ic.png)  
+
+![rec](recording.gif)  
